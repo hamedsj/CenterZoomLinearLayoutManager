@@ -32,7 +32,7 @@ yourRecyclerView.setLayoutManager(myLayoutManager);
 ```
 
 ## License
-Copyright 2016 Shajaravi Hamid-Reza
+Copyright 2020 Shajaravi Hamid-Reza
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
