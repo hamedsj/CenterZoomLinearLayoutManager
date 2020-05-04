@@ -1,5 +1,6 @@
 # CenterZoomLinearLayoutManager
 [![](https://jitpack.io/v/hamedsj/CenterZoomLinearLayoutManager.svg)](https://jitpack.io/#hamedsj/CenterZoomLinearLayoutManager)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 A LinearLayoutManager with ability to zoom center child
 
